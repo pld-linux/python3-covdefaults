@@ -2,7 +2,7 @@
 Summary:	A coverage plugin to provide sensible default settings
 Name:		python3-%{module}
 Version:	2.3.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{module}/%{module}-%{version}.tar.gz
